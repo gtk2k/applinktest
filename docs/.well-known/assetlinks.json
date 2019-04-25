@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "jp.synamon.NEUTRANS",
+    "sha256_cert_fingerprints":
+    ["E3:0E:78:E1:F9:90:2A:B4:1B:44:79:61:45:3C:B2:AC:ED:6E:6E:EE:D8:3F:FF:CC:CC:03:3F:BE:71:DE:B1:42"]
+  }
+}]
